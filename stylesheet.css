@@ -1,0 +1,160 @@
+.main{
+  float:right;
+  position:relative;
+  margin:0 auto;
+  width: 70%;
+  height: 85%;
+  background-color: whitesmoke;
+}
+.main img{
+  width: 50%;
+}
+.title {
+    color:  white;
+    background-color: black;
+    height:140px;
+    font-size: 45px;
+    padding-left: 10px;
+  }
+  ul {
+    list-style: none;
+  }
+.header {
+    color:  black;
+    background-color: white;
+    height:40px ;
+    padding: 10px;
+}
+.header-logo{
+    float:left;
+    font-size: 35px;
+    padding-left: 15px;
+}
+.header-list a{
+    float: left;
+    color: black;
+    font-size: 20px;
+    padding-bottom:10px;
+    padding-left:25px;
+}
+.pic1 img{
+  height: 240px;
+  width: 240px;
+  border-radius: 120px;
+ 
+}
+.about{
+  background-color: black;
+  color:antiquewhite;
+  width: 100%;
+  position: relative;
+  height:360px;
+  letter-spacing: 3px;
+  padding-top: 10px;
+}
+.sidebar{
+  float: left;
+  position: sticky;
+       top: 15px;
+  width: 30%;
+  height: 80vh;
+  color: white;
+  background-color: dimgrey;
+  letter-spacing: 2px;
+  overflow: hidden;
+  padding-top: 20px;
+  text-align: center;
+}
+.sidebar a{
+  color: white;
+}
+.footer{
+  clear: both;
+  color: white;
+  background-color: black;
+  height: 80px;
+  font-size: 10px;
+}
+.btn{
+  padding: 4px 10px;
+  color: white;
+  display: inline-block;
+  opacity: 0.8;
+  border-radius:4px;
+}
+.twitter{
+  background-color: #55acee;
+}
+.instagram{
+  background-color: crimson;
+  margin-top: 20px;
+}
+.linkedin{
+  background-color: blue;
+  margin-top: 20px;
+}
+.btn-wrapper{
+  display: inline-block;
+  margin-left: 10px;
+  
+}
+.about-container{
+  margin: 0 0 0 10px;
+  padding: 0;
+  font-size: 14px;
+}
+.btn:hover{
+  opacity:1;}
+figure.pic1{
+  display: inline-block;
+}
+.fa{
+  margin-right:5px;
+}
+.message{
+  background-color: #5dca88;
+  padding: 15px 40px;
+  box-shadow:0 7px #1a7940;
+}
+.message:active{
+  box-shadow:none;
+  position:relative;
+  top:7px;
+}
+.message-wrapper{
+  border-bottom:1px solid #eee;
+  padding-bottom:80px;
+  text-align:center;
+}
+.flex{
+  display:flex;
+}
+.main p{
+  width: 90%;
+  padding-left: 5%;
+}
+h2{
+  padding-left: 7%;
+}
+.skill{
+  width: 90%;
+  padding-left: 5%;
+}
+.main hr{
+  width: 95%;
+  color: black;
+}
+*{
+  box-sizing: border-box;
+}
+.btn-wrapper-a{
+  display: none;
+  float:left;
+  margin-left: 5px;
+  font-size: 3px;
+   margin-bottom: 10px;
+ }
+
+ .header-contents{
+   display: none;
+ }
