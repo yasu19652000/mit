@@ -18,8 +18,8 @@
   .header-list a{
     float: left;
     color: black;
-    font-size: 6px;
-    padding-bottom:10px;
+    font-size: 10px;
+    padding-bottom:5px;
     padding-left:7px;
   }
   .header-logo{
