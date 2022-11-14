@@ -74,8 +74,8 @@
   .main{
       width: 75%;
   }
-  .container p{
-      font-size: 5px;
+  .main p{
+      font-size: 10px;
   }
   .btn-wrapper{
       display:none; 
