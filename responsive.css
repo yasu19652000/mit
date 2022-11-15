@@ -44,6 +44,7 @@
   .about-container{
       width: 100%;
       font-size: 7px;
+      text-align: left;
   }
   .btn-wrapper{
       display: inline-block;
